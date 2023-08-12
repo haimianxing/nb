@@ -16,7 +16,7 @@ pip install nb
 Fill me in please! Don’t forget code examples:
 
 ``` python
-1+1
+say_hello(" are you ikun? ")
 ```
 
-    2
+    'Hello  are you ikun? !'
