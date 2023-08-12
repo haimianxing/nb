@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nb"
+  site-url: "https://haimianxing.github.io/nb"
+  description: "v1"
+  repo-branch: main
+  repo-url: "https://github.com/haimianxing/nb"
