@@ -5,4 +5,4 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://haimianxing.github.io',
                 'git_url': 'https://github.com/haimianxing/nb',
                 'lib_path': 'nb'},
-  'syms': {'nb.core': {'nb.core.foo': ('core.html#foo', 'nb/core.py')}}}
+  'syms': {'nb.core': {'nb.core.foo': ('core.html#foo', 'nb/core.py'), 'nb.core.say_hello': ('core.html#say_hello', 'nb/core.py')}}}
